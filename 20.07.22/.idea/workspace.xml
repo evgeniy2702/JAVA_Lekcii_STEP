@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88bbeef6-9252-4700-a53c-6d1f18fedeaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Prototype/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Prototype/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Prototype/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/CityDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/Kiev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/RegoinCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/Ukraine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Builder/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Builder/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/FactoryMethod/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/FactoryMethod/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Run.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Admin\Desktop\Лекции_JAVA\20.07.22\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f392tbHP7fw9qIXRyTaDGBZHNc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41230366" />
+  </component>
+  <component name="RunManager" selected="Application.Run (4)">
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.FactoryMethod.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PorozhdayuschiyPattern.FactoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryMethod.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.Prototype.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PorozhdayuschiyPattern.Prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.SingleTon.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PorozhdayuschiyPattern.SingleTon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.Builder.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PorozhdayuschiyPattern.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.FactoryMethod.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PorozhdayuschiyPattern.FactoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.SingleTon.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PorozhdayuschiyPattern.SingleTon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.Abstractfactory.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PorozhdayuschiyPattern.Abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructurPattern.Adapter.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructurPattern.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructurPattern.Bridge.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructurPattern.Bridge.Forest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructurPattern.Decarator.Run" />
+      <module name="PatternProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructurPattern.Decarator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run (4)" />
+        <item itemvalue="Application.Run (3)" />
+        <item itemvalue="Application.Run (1)" />
+        <item itemvalue="Application.Run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88bbeef6-9252-4700-a53c-6d1f18fedeaf" name="Default Changelist" comment="" />
+      <created>1595435704761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595435704761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1595879685972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1595879685972" />
+    <state x="652" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595660630916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="652" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1595660630916" />
+    <state x="856" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595666949527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="856" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1595666949527" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595535667553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595535667553" />
+    <state width="1322" height="168" key="GridCell.Tab.0.bottom" timestamp="1595914008950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
+    <state width="1322" height="168" key="GridCell.Tab.0.center" timestamp="1595914008950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
+    <state width="1322" height="168" key="GridCell.Tab.0.left" timestamp="1595914008950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
+    <state width="1322" height="168" key="GridCell.Tab.0.right" timestamp="1595914008950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1595437718014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595437718014" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1595879035586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595879035586" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595538907641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1595538907641" />
+  </component>
+</project>
