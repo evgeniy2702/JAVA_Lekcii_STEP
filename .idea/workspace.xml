@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fPu52jO4jH8OeL14Xox8SDFBur" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,6 +39,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596133409059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596133409059" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1596132096621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
