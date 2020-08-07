@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88bbeef6-9252-4700-a53c-6d1f18fedeaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Prototype/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Prototype/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Prototype/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/CityDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/Kiev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/RegoinCity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StructurPattern/Decarator/Ukraine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Builder/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/Builder/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/FactoryMethod/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/FactoryMethod/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PorozhdayuschiyPattern/SingleTon/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/AddConcreteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/MultiplyConcreteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/SubtractConcreteStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/RegoinCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/RegoinCity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/Ukraine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/Ukraine.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -54,13 +51,22 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41230366" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Лекции_JAVA_STEP\20.07.22" />
+      <recent name="C:\Users\Admin\Desktop\Лекции_JAVA_STEP\20.07.22\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Лекции_JAVA_STEP\20.07.22\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Run (4)">
-    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.FactoryMethod.Run" />
-      <module name="PatternProject" />
+    <configuration name="Composite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructerPattern.Composites.Composite" />
+      <module name="20.07.22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PorozhdayuschiyPattern.FactoryMethod.*" />
+          <option name="PATTERN" value="StructerPattern.Composites.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryMethod.Run" />
-      <module name="PatternProject" />
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructerPattern.Bridge.Run" />
+      <module name="20.07.22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryMethod.*" />
+          <option name="PATTERN" value="StructerPattern.Bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.Prototype.Run" />
-      <module name="PatternProject" />
+      <option name="MAIN_CLASS_NAME" value="StructerPattern.Decarator.Run" />
+      <module name="20.07.22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PorozhdayuschiyPattern.Prototype.*" />
+          <option name="PATTERN" value="StructerPattern.Decarator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.SingleTon.Run" />
-      <module name="PatternProject" />
+      <option name="MAIN_CLASS_NAME" value="BehaviorPattern.Strategy.Run" />
+      <module name="20.07.22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PorozhdayuschiyPattern.SingleTon.*" />
+          <option name="PATTERN" value="BehaviorPattern.Strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PorozhdayuschiyPattern.Builder.Run" />
-      <module name="PatternProject" />
+      <option name="MAIN_CLASS_NAME" value="StructerPattern.Adapter.Run" />
+      <module name="20.07.22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PorozhdayuschiyPattern.Builder.*" />
+          <option name="PATTERN" value="StructerPattern.Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,6 +208,7 @@
       <list>
         <item itemvalue="Application.Run (4)" />
         <item itemvalue="Application.Run (3)" />
+        <item itemvalue="Application.Composite" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
       </list>
@@ -221,10 +228,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1595879685972">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1596135489908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1595879685972" />
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596135489908" />
+    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1596803430606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596803430606" />
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596135083433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1596135083433" />
     <state x="652" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595660630916">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -233,34 +248,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="856" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1595666949527" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595535667553">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596282601227">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595535667553" />
-    <state width="1322" height="168" key="GridCell.Tab.0.bottom" timestamp="1595914008950">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596282601227" />
+    <state width="1322" height="168" key="GridCell.Tab.0.bottom" timestamp="1596803975666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
-    <state width="1322" height="168" key="GridCell.Tab.0.center" timestamp="1595914008950">
+    <state width="1322" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596803975666" />
+    <state width="1322" height="168" key="GridCell.Tab.0.center" timestamp="1596803975665">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
-    <state width="1322" height="168" key="GridCell.Tab.0.left" timestamp="1595914008950">
+    <state width="1322" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596803975665" />
+    <state width="1322" height="168" key="GridCell.Tab.0.left" timestamp="1596803975665">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
-    <state width="1322" height="168" key="GridCell.Tab.0.right" timestamp="1595914008950">
+    <state width="1322" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596803975665" />
+    <state width="1322" height="168" key="GridCell.Tab.0.right" timestamp="1596803975666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595914008950" />
-    <state x="326" y="0" key="SettingsEditor" timestamp="1595437718014">
+    <state width="1322" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596803975666" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1596135704040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595437718014" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1595879035586">
+    <state x="326" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596135704040" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1596396805775">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595879035586" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596396805775" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595538907641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="093a3957-2f8e-4022-a0ce-730128f2a871" name="Default Changelist" comment="" />
+    <list default="true" id="093a3957-2f8e-4022-a0ce-730128f2a871" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20.07.22/src/main/java/BehaviorPattern/Strategy/AddConcreteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.07.22/src/main/java/BehaviorPattern/Strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.07.22/src/main/java/BehaviorPattern/Strategy/MultiplyConcreteStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.07.22/src/main/java/BehaviorPattern/Strategy/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.07.22/src/main/java/BehaviorPattern/Strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.07.22/src/main/java/BehaviorPattern/Strategy/SubtractConcreteStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.07.22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20.07.22/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.07.22/target/classes/StructerPattern/Decarator/RegoinCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/20.07.22/target/classes/StructerPattern/Decarator/RegoinCity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.07.22/target/classes/StructerPattern/Decarator/Ukraine.class" beforeDir="false" afterPath="$PROJECT_DIR$/20.07.22/target/classes/StructerPattern/Decarator/Ukraine.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fPu52jO4jH8OeL14Xox8SDFBur" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,7 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20.07.22" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -36,6 +50,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596798423732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596798423732" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1596132096621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
