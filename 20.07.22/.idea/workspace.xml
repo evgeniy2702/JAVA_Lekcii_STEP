@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88bbeef6-9252-4700-a53c-6d1f18fedeaf" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/AddConcreteStrategy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/Context.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/BehaviorPattern/Strategy/MultiplyConcreteStrategy.java" afterDir="false" />
@@ -12,6 +13,57 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/RegoinCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/RegoinCity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/Ukraine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StructerPattern/Decarator/Ukraine.class" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/Toyota/ToyotaEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/Toyota/ToyotaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/Toyota/ToyotaWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/AbstractFactory/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Builder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Builder/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/FactoryMethod/CompTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/FactoryMethod/CompTableFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/FactoryMethod/HomeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/FactoryMethod/HomeTableFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/FactoryMethod/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/FactoryMethod/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/FactoryMethod/TableFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Prototype/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Prototype/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Prototype/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Singleton/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CreationPattern/Singleton/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Adapter/AdapterTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Adapter/PlasticTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Adapter/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Adapter/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Bridge/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Bridge/Animals/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Bridge/Animals/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Bridge/BridgeForest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Bridge/Forest/CanadianBridgeForest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Bridge/Forest/UkrainianBridgeForest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Bridge/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Composites/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Composites/GreenTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Composites/RadRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Composites/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Composites/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Composites/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Decarator/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Decarator/CityDecarator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Decarator/Kiev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Decarator/RegionCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Decarator/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StructerPattern/Decarator/Ukraine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> a1ea41313cec10e3dc4eaf1858e54b2a0e65c98f
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +112,11 @@
       <recent name="C:\Users\Admin\Desktop\Лекции_JAVA_STEP\20.07.22\src" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Run (4)">
+=======
+  <component name="RunManager" selected="Application.Run (3)">
+>>>>>>> a1ea41313cec10e3dc4eaf1858e54b2a0e65c98f
     <configuration name="Composite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StructerPattern.Composites.Composite" />
       <module name="20.07.22" />
@@ -87,12 +143,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StructerPattern.Decarator.Run" />
       <module name="20.07.22" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StructerPattern.Decarator.*" />
+=======
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationPattern.FactoryMethod.Run" />
+      <module name="20.07.22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationPattern.FactoryMethod.*" />
+>>>>>>> a1ea41313cec10e3dc4eaf1858e54b2a0e65c98f
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +165,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BehaviorPattern.Strategy.Run" />
       <module name="20.07.22" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BehaviorPattern.Strategy.*" />
+=======
+    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StructerPattern.Decarator.Run" />
+      <module name="20.07.22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StructerPattern.Decarator.*" />
+>>>>>>> a1ea41313cec10e3dc4eaf1858e54b2a0e65c98f
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (4)" />
         <item itemvalue="Application.Run (3)" />
         <item itemvalue="Application.Composite" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Run (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -232,10 +306,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596135489908" />
+<<<<<<< HEAD
     <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1596803430606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596803430606" />
+=======
+    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1596397433617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="905" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596397433617" />
+>>>>>>> a1ea41313cec10e3dc4eaf1858e54b2a0e65c98f
     <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596135083433">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -252,6 +333,7 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596282601227" />
+<<<<<<< HEAD
     <state width="1322" height="168" key="GridCell.Tab.0.bottom" timestamp="1596803975666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -268,6 +350,24 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596803975666" />
+=======
+    <state width="1322" height="168" key="GridCell.Tab.0.bottom" timestamp="1596404232143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596404232143" />
+    <state width="1322" height="168" key="GridCell.Tab.0.center" timestamp="1596404232143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596404232143" />
+    <state width="1322" height="168" key="GridCell.Tab.0.left" timestamp="1596404232143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596404232143" />
+    <state width="1322" height="168" key="GridCell.Tab.0.right" timestamp="1596404232143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596404232143" />
+>>>>>>> a1ea41313cec10e3dc4eaf1858e54b2a0e65c98f
     <state x="326" y="0" key="SettingsEditor" timestamp="1596135704040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
